@@ -29,12 +29,16 @@ Selected Awards & Honors
 ======
 The 14th Chinese College Students Mathematics Competition First Prize (8%)
 ------
+
 National University of Singapore School of Computing Summer Workshop First Prize(1/17)
 ------
+
 The 9th Sichuan University "Internet +" College Students Innovation and Entrepreneurship Competition Second Prize
 ------
+
 Sichuan University Comprehensive Scholarship
 ------
+
 Sichuan University Excellent Student
 ------
 

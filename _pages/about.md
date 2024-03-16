@@ -23,7 +23,7 @@ Serve as a research intern in Data Intelligence & Computing Art Laboratory on le
 
 NUS SoC Summer Workshop First Prize
 ------
-In National University of Singapore School of Computing Summer Workshop, worked with two teammates to create the group project Real-Time Ray Tracing on GPU, under the supervision of senior lecturer Low Kok Lim. The team participated in project showcase and finally got the first prize.
+In National University of Singapore School of Computing Summer Workshop, worked with two teammates to create the group project Real-Time Ray Tracing on GPU, under the supervision of senior lecturer Low Kok Lim. The team participated in project showcase and finally got the [first prize](assets/SWS3005_First Prize.pdf).
 
 Selected Awards & Honors
 ======

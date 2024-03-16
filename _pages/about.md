@@ -12,7 +12,7 @@ Hi! I’m an undergraduate student from [College of Computer Science](https://cs
 My primary research interests lie in Computer Vision, Machine Learning, Multi-modal Learning, etc. I am gratefully advised by Prof. [Jizhe Zhou](https://knightzjz.github.io/) as a research intern.
 
 Education
-======
+====== 
 
 2021-2025: __B.Eng__ in Computer Science & Technology, Sichuan University
 

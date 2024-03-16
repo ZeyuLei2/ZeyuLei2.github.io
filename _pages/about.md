@@ -13,10 +13,12 @@ My primary research interests lie in Computer Vision, Machine Learning, Multi-mo
 
 Education
 ======
-2021-2025: B.Eng in Computer Science & Technology, Sichuan University
+
+2021-2025: __B.Eng__ in Computer Science & Technology, Sichuan University
 
 Research Experience
 ======
+
 Research Intern in Dica Lab, Sichuan University 
 ------
 Serve as a research intern in Data Intelligence & Computing Art Laboratory on leveraging Multimodal Large Models to enhance Fine-Grained Recognition tasks, under the supervision of associate professor Jizhe Zhou.
@@ -27,6 +29,7 @@ In National University of Singapore School of Computing Summer Workshop, worked 
 
 Selected Awards & Honors
 ======
+
 The 14th Chinese College Students Mathematics Competition First Prize (8%)
 ------
 

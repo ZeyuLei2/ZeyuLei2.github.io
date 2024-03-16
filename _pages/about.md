@@ -21,10 +21,12 @@ Research Experience
 
 Research Intern in Dica Lab, Sichuan University 
 ------
+
 Serve as a research intern in Data Intelligence & Computing Art Laboratory on leveraging Multimodal Large Models to enhance Fine-Grained Recognition tasks, under the supervision of associate professor Jizhe Zhou.
 
 NUS SoC Summer Workshop First Prize
 ------
+
 In National University of Singapore School of Computing Summer Workshop, worked with two teammates to create the group project Real-Time Ray Tracing on GPU, under the supervision of senior lecturer Low Kok Lim. The team participated in project showcase and finally got the [first prize](assets/SWS3005_First Prize.pdf).
 
 Selected Awards & Honors

@@ -18,8 +18,8 @@ Education
 
 Research Experience
 ======
-Research Intern in Dica Lab, Sichuan University 
-------
+__Research Intern in Dica Lab, Sichuan University__ 
+
 
 Serve as a research intern in Data Intelligence & Computing Art Laboratory on leveraging Multimodal Large Models to enhance Fine-Grained Recognition tasks, under the supervision of associate professor Jizhe Zhou.
 

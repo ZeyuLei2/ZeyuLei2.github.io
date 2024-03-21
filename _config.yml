@@ -21,7 +21,7 @@ repository               : "ZeyuLei2"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.PNG"
   name             : "Zeyu Lei"
   pronouns         : # example: "she/her"  
   bio              : "Sichuan University"

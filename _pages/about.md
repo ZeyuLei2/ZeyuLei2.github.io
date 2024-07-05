@@ -16,6 +16,13 @@ My primary research interests lie in Computer Vision, Machine Learning, Multi-mo
 2021-2025: __B.Eng__ in Computer Science & Technology, Sichuan University
 
 # Research Experience
+## IMDL-BenCo: A Comprehensive Benchmark and Codebase for Image Manipulation Detection & Localization *(In submission to NeurIPS2024)*
+
+Collaborated with the Data Intelligence & Computing Art Laboratory team to propose IMDL-BenCo, the first comprehensive Image Manipulation Detection & Localization (IMDL) benchmark and modular codebase as a co-first author, under the supervision of associate professor Jizhe Zhou. I was responsible for implementing ManTra-Net and SPAN and manuscript writing. 
+
+arxiv: https://arxiv.org/abs/2406.10580
+
+
 ## Research Intern in Dica Lab, Sichuan University
 
 Serve as a research intern in Data Intelligence & Computing Art Laboratory on leveraging Multimodal Large Models to enhance Fine-Grained Recognition tasks, under the supervision of associate professor Jizhe Zhou.

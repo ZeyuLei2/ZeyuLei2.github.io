@@ -20,7 +20,7 @@ My primary research interests lie in Computer Vision, Machine Learning, Multi-mo
 
 Collaborated with the Data Intelligence & Computing Art Laboratory team to propose IMDL-BenCo, the first comprehensive Image Manipulation Detection & Localization (IMDL) benchmark and modular codebase as a co-first author, under the supervision of associate professor Jizhe Zhou. I was responsible for implementing ManTra-Net and SPAN and manuscript writing. 
 
-arxiv: https://arxiv.org/abs/2406.10580
+arxiv: [https://arxiv.org/abs/2406.10580](https://arxiv.org/abs/2406.10580)
 
 
 ## Research Intern in Dica Lab, Sichuan University

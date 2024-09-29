@@ -14,6 +14,8 @@ My primary research interests lie in Computer Vision, Machine Learning, Multi-mo
 # Education
 
 2021-2025: __B.Eng__ in Computer Science & Technology, Sichuan University
+
+
 2024: __Exchange Student__ in Computer Science, University of Macau
 
 # Research Experience

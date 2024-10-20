@@ -21,25 +21,26 @@ My primary research interests lie in Computer Vision, Machine Learning, Multi-mo
 # Research Experience
 ## IMDL-BenCo: A Comprehensive Benchmark and Codebase for Image Manipulation Detection & Localization *(Accepted as Spotlight at NeurIPS2024)*
 
-Collaborated with the [Data Intelligence & Computing Art Laboratory](https://dicalab.cn/) team to propose IMDL-BenCo, the first comprehensive Image Manipulation Detection & Localization (IMDL) benchmark and modular codebase as a co-first author, under the supervision of Prof. [Chi Man PUN](https://cmpun.github.io/) from University of Macau and Prof. [Jizhe Zhou](https://knightzjz.github.io/) from Sichuan University. I was responsible for implementing ManTra-Net and SPAN and manuscript writing. 
+Collaborated with the [Data Intelligence & Computing Art Laboratory](https://dicalab.cn/) team to propose IMDL-BenCo, the first comprehensive Image Manipulation Detection & Localization (IMDL) benchmark and modular codebase as a co-first author, under the supervision of Prof. [Chi Man PUN](https://cmpun.github.io/) from University of Macau and Prof. [Jizhe Zhou](https://knightzjz.github.io/) from Sichuan University. I was responsible for the overall design of the code structure and refactoring existing IMDL models to align with the framework. 
 
 Arxiv: [https://arxiv.org/abs/2406.10580](https://arxiv.org/abs/2406.10580)
 
 Github: [https://github.com/scu-zjz/IMDLBenCo](https://github.com/scu-zjz/IMDLBenCo)
 
 
-## Research Intern in Dica Lab, Sichuan University
+## Visual Prompting on Multimodal LLM for Fine-Grained Recognition  
 
-Serve as a research intern in [Data Intelligence & Computing Art Laboratory](https://dicalab.cn/) on leveraging Multimodal Large Models to enhance Fine-Grained Recognition tasks, under the supervision of Prof. [Jizhe Zhou](https://knightzjz.github.io/).
+Drawing from the strong detailed perception capability of Multimodal Large Language Models(MLLM), the team proposed an innovative visual prompt tuning technique to enhance Fine-Grained Recognition tasks, under the supervision of Prof. [Jizhe Zhou](https://knightzjz.github.io/). I was the team leader responsible for the model design and code implementation.
 
 ## NUS SoC Summer Workshop First Prize
 
+In National University of Singapore School of Computing Summer Workshop, worked with two teammates to create the group project Real-Time Ray Tracing on GPU under the supervision of Prof. [Low Kok Lim](https://www.comp.nus.edu.sg/~lowkl/). The team rendered a visually stunning and imaginative dynamic artifact model in real-time, ultimately winning first prize at the project showcase. I was responsible for the aesthetic design and code implementation.
 
-In National University of Singapore School of Computing Summer Workshop, worked with two teammates to create the group project Real-Time Ray Tracing on GPU, under the supervision of Prof. [Low Kok Lim](https://www.comp.nus.edu.sg/~lowkl/). The team participated in project showcase and finally got the first prize.
+Demo: [https://www.shadertoy.com/view/DdjfWy](https://www.shadertoy.com/view/DdjfWy)
 
 # Selected Awards & Honors
 
-The 14th Chinese College Students Mathematics Competition First Prize (8%)
+Chinese College Students Mathematics Competition First Prize (8%)
 
 National University of Singapore School of Computing Summer Workshop First Prize(1/17)
 

@@ -21,7 +21,7 @@ My primary research interests lie in Computer Vision, Machine Learning, Multi-mo
 # Research Experience
 ## IMDL-BenCo: A Comprehensive Benchmark and Codebase for Image Manipulation Detection & Localization *(Accepted as Spotlight at NeurIPS2024)*
 
-Collaborated with the [Data Intelligence & Computing Art Laboratory](https://dicalab.cn/) team to propose IMDL-BenCo, the first comprehensive Image Manipulation Detection & Localization (IMDL) benchmark and modular codebase as a co-first author, under the supervision of Prof. [Chi Man PUN](https://cmpun.github.io/) from University of Macau and Prof. [Jizhe Zhou](https://knightzjz.github.io/) from Sichuan University. I was responsible for the overall design of the code structure and refactoring existing IMDL models to align with the framework. 
+Collaborated with the team to propose IMDL-BenCo, the first comprehensive Image Manipulation Detection & Localization (IMDL) benchmark and modular codebase as a co-first author, under the supervision of Prof. [Chi Man PUN](https://cmpun.github.io/) from University of Macau and Prof. [Jizhe Zhou](https://knightzjz.github.io/) from Sichuan University. I was responsible for the overall design of the code structure and refactoring existing IMDL models to align with the framework. 
 
 Arxiv: [https://arxiv.org/abs/2406.10580](https://arxiv.org/abs/2406.10580)
 

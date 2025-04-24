@@ -7,9 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I’m an undergraduate student from [College of Computer Science](https://cs.scu.edu.cn/), [Sichuan University(SCU)](https://www.scu.edu.cn/), majoring in Computer Science & Technology (Top-notch Program, Wu Yuzhang Honors College). Currently, I am an exchange student at [Department of Computer and Information Science](https://www.cis.um.edu.mo/), [University of Macau](https://www.um.edu.mo/).
-
-My primary research interests lie in Computer Vision, Machine Learning, Multi-modal Learning, etc. I am gratefully advised by Prof. [Jizhe Zhou](https://knightzjz.github.io/) as a research intern.
+Hi! I’m an undergraduate student from [College of Computer Science](https://cs.scu.edu.cn/), [Sichuan University(SCU)](https://www.scu.edu.cn/), majoring in Computer Science & Technology (Top-notch Program, Wu Yuzhang Honors College). Currently, I am an exchange student at [Department of Computer and Information Science](https://www.cis.um.edu.mo/), [University of Macau](https://www.um.edu.mo/). I am gratefully advised by Prof. [Jizhe Zhou](https://knightzjz.github.io/) as a research intern.
 
 # Education
 

@@ -9,7 +9,7 @@ redirect_from:
 
 Hi! I’m an undergraduate student from [College of Computer Science](https://cs.scu.edu.cn/), [Sichuan University(SCU)](https://www.scu.edu.cn/), majoring in Computer Science & Technology (Top-notch Program, Wu Yuzhang Honors College). Currently, I am an exchange student at [Department of Computer and Information Science](https://www.cis.um.edu.mo/), [University of Macau](https://www.um.edu.mo/). I am gratefully advised by Prof. [Jizhe Zhou](https://knightzjz.github.io/) as a research intern.
 
-#432 Education
+# Education
 
 2021-2025: __B.Eng__ in Computer Science & Technology, Sichuan University
 
